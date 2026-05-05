@@ -1,7 +1,7 @@
  👋 Hello, I'm Fatima Ezzahraa BELFARAH
 
  🎓 Engineering Student in Data Science & IoT
-I am a passionate 2nd-year Engineering student focused on **Industrial Automation**, **Embedded Intelligence**, and **Robotics Innovation**. Currently seeking a technical internship to apply my expertise in C/Python and data analysis.
+I am a passionate 3nd-year Engineering student focused on **Industrial Automation**, **Embedded Intelligence**, and **Robotics Innovation**. Currently seeking a technical internship to apply my expertise in C/Python and data analysis.
 
 ---
 
